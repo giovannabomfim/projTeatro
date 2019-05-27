@@ -1,0 +1,7 @@
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\bin\Debug\projTeatroWF.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\bin\Debug\projTeatroWF.pdb
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.Form1.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.Properties.Resources.resources
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.csproj.GenerateResource.Cache
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.exe
+C:\Users\MarcoAurélioMarques-\Documents\Visual Studio 2010\Projects\ADS471_ED2_2019s1\projTeatroWF\projTeatroWF\obj\x86\Debug\projTeatroWF.pdb
